@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Coca_cola",
+      "preco": "200,00 AOA",
+      "img": "http://localhost:3000/static/media/coca_cola.13cf0dc8.png"
+    },
+    {
+      "id": 2,
+      "name": "Fanta",
+      "preco": "300, 00 AOA",
+      "img": "http://localhost:3000/static/media/fanta.90dce061.png"
+    },
+    {
+      "id": 3,
+      "name": "Pepsi",
+      "preco": "400, 00 AOA",
+      "img": "http://localhost:3000/static/media/pepsi.4386121c.png"
+    },
+    {
+      "id": 4,
+      "name": "Prite",
+      "preco": "500, 00 AOA",
+      "img": "http://localhost:3000/static/media/sprite.42f71aaf.png"
+    }
+  ]
+}
